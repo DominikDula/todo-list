@@ -1,5 +1,5 @@
 export interface TodoListPageProps {
-  params: {
+  params: Promise<{
     id: string;
-  };
+  }>;
 }
