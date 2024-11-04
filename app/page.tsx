@@ -30,7 +30,7 @@ export default function Home() {
           </div>
           <div className="flex flex-col items-center">
             <PencilSquareIcon className="h-20 w-20 text-todo-main  mr-2" />
-            <p className="mt-4">PencilSquareIcon</p>
+            <p className="mt-4">Write it</p>
           </div>
           <div className="flex flex-col items-center">
             <RocketLaunchIcon className="h-20 w-20 text-todo-main  mr-2" />
