@@ -1,3 +1,11 @@
+# Live Demo
+[Live Demo](https://heartfelt-bunny-e4c3f9.netlify.app/)
+
+# Design Inspiration
+[Simple Task UI](https://www.figma.com/community/file/1086950935431359417)
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -12,6 +20,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
